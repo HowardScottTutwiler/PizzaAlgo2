@@ -1,0 +1,7 @@
+Choose restaurant
+Select the pizza
+Order online or via telephone
+Pay for pizza
+Pick up or watch for delivery person
+Tip delivery person if not already done
+Enjoy pizza
